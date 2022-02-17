@@ -5,6 +5,12 @@ Created on Mon Feb 14 14:01:10 2022
 @author: Toyin
 """
 
+pip install seaborn
+pip install matplotlib
+pip install numpy
+pip install scikit-learn
+pip install streamlit
+
 # importing useful libraries
 import seaborn as sns
 import matplotlib.pyplot as plt
